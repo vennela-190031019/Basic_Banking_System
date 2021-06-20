@@ -45,7 +45,7 @@
 	<div align="center" style="top:0px">        
 		<table width="1200" align="center" class = "t">
 			<tr>
-            <td style = "text-align:center;border:0px"><a href="index.php" target="frame"> <button class = "btn2"> Home </button></td>	 	
+            <td style = "text-align:center;border:0px"><a href="home.php" target="frame"> <button class = "btn2"> Home </button></td>	 	
 			<td style = "text-align:center;border:0px"><a href="customer.php" target="frame"><button class = "btn2">View Customers</button></a></td>
 			<td style = "text-align:center;border:0px"><a href="Transfermoney.php" target="frame"><button class = "btn2">Transfer Amount</button></a></td>
 			<td style = "text-align:center;border:0px"><a href="transactionhistory.php" target="frame"><button class = "btn2"> Transaction History</button></a></td>
